@@ -341,10 +341,17 @@ body {
   text-align: right;
 }
 
-.menu_item_btn {
+.btn {
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
+}
+
+.btn-detail {
   background: #2e58a6;
   color: #fff;
+}
+
+.btn-disabled {
+  background: rgba(0,0,0,0.3);
 }
